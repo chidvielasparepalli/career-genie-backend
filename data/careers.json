@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "software-engineer",
+    "name": "Software Engineer",
+    "category": "Technology",
+    "currentEducation": "B.Tech / Diploma",
+    "recommendedEducation": "B.Tech Computer Science",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Tech CSE",
+      "requiredSkills": "Programming & DSA",
+      "projects": "Full Stack Projects",
+      "internship": "Software Internship",
+      "careerGoal": "Software Engineer"
+    },
+    "requiredSkills": [
+      "Programming",
+      "DSA",
+      "SQL",
+      "Git",
+      "System Design"
+    ],
+    "roadmap": [
+      "Learn programming basics (Python/Java/JS)",
+      "Master Data Structures & Algorithms",
+      "Build 3 full-stack portfolio projects",
+      "Contribute to open source & Git version control",
+      "Apply and clear web development internship",
+      "Prepare for technical interviews and system design"
+    ],
+    "resources": [
+      "freeCodeCamp Web Development",
+      "LeetCode DSA Practice",
+      "GitHub Developer Handbook"
+    ],
+    "salary": "₹5,0,000 - ₹25,0,000 per annum",
+    "futureScope": "Very high, continuous demand for software engineering and cloud automation experts.",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "TCS",
+      "Accenture",
+      "Infosys"
+    ],
+    "certifications": [
+      "AWS Certified Developer",
+      "Oracle Java Programmer"
+    ],
+    "icon": "bi-code-slash",
+    "color": "primary",
+    "matchingInterests": {
+      "Coding": 5,
+      "Cloud": 3
+    },
+    "matchingStrengths": {
+      "Problem Solving": 5,
+      "Mathematics": 4
+    }
+  },
+  {
+    "id": "ai-engineer",
+    "name": "AI Engineer",
+    "category": "Technology",
+    "currentEducation": "B.Tech",
+    "recommendedEducation": "B.Tech Artificial Intelligence",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Tech AI & ML",
+      "requiredSkills": "Python & Linear Algebra",
+      "projects": "Neural Network Models",
+      "internship": "AI Research Internship",
+      "careerGoal": "AI Engineer"
+    },
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Linear Algebra",
+      "MLOps"
+    ],
+    "roadmap": [
+      "Master Python and statistics libraries (NumPy, Scikit-learn)",
+      "Understand mathematical foundations of ML",
+      "Train deep learning neural networks (CNNs, Transformers)",
+      "Deploy AI models using MLOps workflows",
+      "Undergo AI developer internship"
+    ],
+    "resources": [
+      "DeepLearning.AI Andrew Ng Courses",
+      "Kaggle Datasets & Notebooks"
+    ],
+    "salary": "₹6,5,000 - ₹28,0,000 per annum",
+    "futureScope": "Exponential growth driven by Generative AI and automation.",
+    "topRecruiters": [
+      "NVIDIA",
+      "Google",
+      "Meta",
+      "Accenture AI"
+    ],
+    "certifications": [
+      "TensorFlow Developer Certificate",
+      "AWS Machine Learning Specialist"
+    ],
+    "icon": "bi-cpu-fill",
+    "color": "info",
+    "matchingInterests": {
+      "AI": 5,
+      "Coding": 4
+    },
+    "matchingStrengths": {
+      "Problem Solving": 5,
+      "Mathematics": 5
+    }
+  },
+  {
+    "id": "data-scientist",
+    "name": "Data Scientist",
+    "category": "Technology",
+    "currentEducation": "B.Tech / Degree",
+    "recommendedEducation": "B.Tech CSE / B.Sc Statistics",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC / MEC)",
+      "recommendedDegree": "B.Sc Data Science / Statistics",
+      "requiredSkills": "Statistics & SQL",
+      "projects": "Predictive Data Analysis Models",
+      "internship": "Data Science Internship",
+      "careerGoal": "Data Scientist"
+    },
+    "requiredSkills": [
+      "Statistics",
+      "Python",
+      "SQL",
+      "Tableau",
+      "Predictive Modeling"
+    ],
+    "roadmap": [
+      "Learn Python/R programming",
+      "Master probability, hypothesis testing, and regressions",
+      "Learn SQL queries and data manipulation with Pandas",
+      "Build analytics dashboard on Power BI / Tableau",
+      "Complete a data analyst internship"
+    ],
+    "resources": [
+      "Google Data Analytics (Coursera)",
+      "DataCamp Interactive Tracks"
+    ],
+    "salary": "₹6,0,000 - ₹24,0,000 per annum",
+    "futureScope": "Strong growth as corporations collect larger datasets to drive business insights.",
+    "topRecruiters": [
+      "Fractal Analytics",
+      "Mu Sigma",
+      "EY",
+      "Amazon"
+    ],
+    "certifications": [
+      "Microsoft Power BI Associate",
+      "Google Data Engineer"
+    ],
+    "icon": "bi-graph-up-arrow",
+    "color": "success",
+    "matchingInterests": {
+      "Data": 5,
+      "Research": 3
+    },
+    "matchingStrengths": {
+      "Mathematics": 5,
+      "Problem Solving": 4
+    }
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "name": "Cybersecurity Analyst",
+    "category": "Technology",
+    "currentEducation": "B.Tech / Diploma",
+    "recommendedEducation": "B.Tech Cybersecurity",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Tech CSE (Cybersecurity)",
+      "requiredSkills": "Networking & Linux Admin",
+      "projects": "Penetration Testing Lab",
+      "internship": "SOC Security Internship",
+      "careerGoal": "Cybersecurity Analyst"
+    },
+    "requiredSkills": [
+      "Computer Networks",
+      "Linux",
+      "Ethical Hacking",
+      "SIEM (Splunk)",
+      "Cryptography"
+    ],
+    "roadmap": [
+      "Master network protocols and Linux administration",
+      "Understand web application vulnerabilities (OWASP Top 10)",
+      "Practice hacking on TryHackMe or HackTheBox",
+      "Learn threat monitoring using SIEM tools (Splunk)",
+      "Secure a SOC analyst internship"
+    ],
+    "resources": [
+      "TryHackMe Security Labs",
+      "Professor Messer CompTIA Security+"
+    ],
+    "salary": "₹4,0,000 - ₹16,0,000 per annum",
+    "futureScope": "Increasingly vital due to strict data privacy regulations and security threats.",
+    "topRecruiters": [
+      "PwC",
+      "EY",
+      "KPMG",
+      "Wipro Security",
+      "HackerOne"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Certified Ethical Hacker (CEH)"
+    ],
+    "icon": "bi-shield-lock-fill",
+    "color": "danger",
+    "matchingInterests": {
+      "Security": 5,
+      "Coding": 2
+    },
+    "matchingStrengths": {
+      "Attention": 5,
+      "Problem Solving": 4
+    }
+  },
+  {
+    "id": "cloud-engineer",
+    "name": "Cloud Engineer",
+    "category": "Technology",
+    "currentEducation": "B.Tech",
+    "recommendedEducation": "B.Tech Cloud Computing",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Tech CSE (Cloud)",
+      "requiredSkills": "AWS / Azure Cloud CLI",
+      "projects": "Terraform Cloud Deployment",
+      "internship": "Cloud Operations Internship",
+      "careerGoal": "Cloud Engineer"
+    },
+    "requiredSkills": [
+      "AWS / Azure",
+      "Linux CLI",
+      "Python Scripting",
+      "Terraform",
+      "Cloud Networks"
+    ],
+    "roadmap": [
+      "Master Linux commands and system administrator tools",
+      "Learn cloud networks: VPC, subnets, routers, firewalls",
+      "Master core AWS/Azure services (EC2, S3, RDS, IAM)",
+      "Learn Infrastructure as Code (IaC) with Terraform",
+      "Secure cloud administrator intern role"
+    ],
+    "resources": [
+      "AWS Training & Certification Paths",
+      "freeCodeCamp Cloud Practitioner Guide"
+    ],
+    "salary": "₹5,0,000 - ₹18,0,000 per annum",
+    "futureScope": "Highly consistent since enterprise systems continue migrating to cloud platforms.",
+    "topRecruiters": [
+      "Accenture",
+      "TCS",
+      "AWS India",
+      "Microsoft"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate",
+      "Microsoft Azure Administrator"
+    ],
+    "icon": "bi-cloud-fill",
+    "color": "success",
+    "matchingInterests": {
+      "Cloud": 5,
+      "Coding": 2
+    },
+    "matchingStrengths": {
+      "Problem Solving": 4,
+      "Attention": 4
+    }
+  },
+  {
+    "id": "devops-engineer",
+    "name": "DevOps Engineer",
+    "category": "Technology",
+    "currentEducation": "B.Tech",
+    "recommendedEducation": "B.Tech CSE / IT",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Tech CSE / IT",
+      "requiredSkills": "Docker & Git Workflows",
+      "projects": "CI/CD Pipelines Deploy",
+      "internship": "DevOps/SRE Internship",
+      "careerGoal": "DevOps Engineer"
+    },
+    "requiredSkills": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Linux & Shell Scripting",
+      "IaC"
+    ],
+    "roadmap": [
+      "Master Git branching models and Linux terminal",
+      "Build automated CI/CD pipelines using GitHub Actions",
+      "Dockerize web applications and manage configurations",
+      "Orchestrate containers with Kubernetes",
+      "Secure DevOps engineer intern role"
+    ],
+    "resources": [
+      "KodeKloud DevOps Labs",
+      "TechWorld with Nana tutorials"
+    ],
+    "salary": "₹6,0,000 - ₹24,0,000 per annum",
+    "futureScope": "Very high paying roles with continuous demand in agile software lifecycle teams.",
+    "topRecruiters": [
+      "IBM",
+      "Red Hat",
+      "Walmart Tech",
+      "Accenture"
+    ],
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)",
+      "Terraform Associate"
+    ],
+    "icon": "bi-repeat",
+    "color": "primary",
+    "matchingInterests": {
+      "Cloud": 5,
+      "Coding": 3
+    },
+    "matchingStrengths": {
+      "Problem Solving": 4,
+      "Attention": 4
+    }
+  },
+  {
+    "id": "uiux-designer",
+    "name": "UI/UX Designer",
+    "category": "Technology",
+    "currentEducation": "B.Tech / B.Des",
+    "recommendedEducation": "B.Des / B.Tech UI-UX Specialized",
+    "bridgePath": {
+      "currentEducation": "Intermediate (Any stream)",
+      "recommendedDegree": "B.Des Communication Design",
+      "requiredSkills": "Figma Wireframing",
+      "projects": "App Interaction Prototype",
+      "internship": "UX Visual Design Internship",
+      "careerGoal": "UI/UX Designer"
+    },
+    "requiredSkills": [
+      "Figma",
+      "User Research",
+      "Wireframing",
+      "Typography",
+      "HCI Principles"
+    ],
+    "roadmap": [
+      "Learn design psychology laws and layout systems",
+      "Master Figma software (auto-layout, components, prototyping)",
+      "Conduct user research and compile detailed personas",
+      "Design responsive website and app interactive layouts",
+      "Publish design case studies on Behance/Dribbble"
+    ],
+    "resources": [
+      "Google UX Design (Coursera)",
+      "Figma Academy visual guides"
+    ],
+    "salary": "₹4,0,000 - ₹14,0,000 per annum",
+    "futureScope": "Strong demand as customer-centric software layouts directly impact sales conversion.",
+    "topRecruiters": [
+      "Swiggy",
+      "Zomato",
+      "Cognizant",
+      "Lollypop UX Studio"
+    ],
+    "certifications": [
+      "Google UX Design Certificate",
+      "IxDF UX Designer Certificate"
+    ],
+    "icon": "bi-palette-fill",
+    "color": "warning",
+    "matchingInterests": {
+      "Design": 5,
+      "Coding": 1
+    },
+    "matchingStrengths": {
+      "Creativity": 5,
+      "Attention": 4
+    }
+  },
+  {
+    "id": "product-manager",
+    "name": "Product Manager",
+    "category": "Technology",
+    "currentEducation": "B.Tech / Degree",
+    "recommendedEducation": "B.Tech + MBA",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC / MEC)",
+      "recommendedDegree": "B.Tech CSE / IT or BBA",
+      "requiredSkills": "Product Analytics & PRD",
+      "projects": "Product Teardown Case Study",
+      "internship": "Associate Product Manager Intern",
+      "careerGoal": "Product Manager"
+    },
+    "requiredSkills": [
+      "Product Strategy",
+      "PRD Writing",
+      "User Research",
+      "Agile",
+      "Communication"
+    ],
+    "roadmap": [
+      "Learn software development lifecycle and agile methodology",
+      "Learn user research practices and feature documentation (PRD)",
+      "Master product metrics tracking (Mixpanel, Google Analytics)",
+      "Conduct a detailed mobile app feature teardown project",
+      "Secure Associate Product Manager internship"
+    ],
+    "resources": [
+      "Product School free guides",
+      "Inspired (Book by Marty Cagan)"
+    ],
+    "salary": "₹8,0,000 - ₹30,0,000 per annum",
+    "futureScope": "Highly robust as tech startup structures prioritize metric growth engineers.",
+    "topRecruiters": [
+      "Flipkart",
+      "Paytm",
+      "MakeMyTrip",
+      "CRED"
+    ],
+    "certifications": [
+      "Product Owner Certificate (PSPO)",
+      "Pragmatic Institute Certificate"
+    ],
+    "icon": "bi-clipboard-data-fill",
+    "color": "warning",
+    "matchingInterests": {
+      "Design": 3,
+      "Data": 3
+    },
+    "matchingStrengths": {
+      "Leadership": 5,
+      "Communication": 5
+    }
+  },
+  {
+    "id": "mbbs",
+    "name": "MBBS",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate BiPC",
+    "recommendedEducation": "MBBS Degree",
+    "bridgePath": {
+      "currentEducation": "Intermediate (BiPC)",
+      "recommendedDegree": "MBBS Doctor Degree",
+      "requiredSkills": "Clinical Diagnoses & Anatomy",
+      "projects": "Clinical Rotations case files",
+      "internship": "Hospital Compulsory Internship",
+      "careerGoal": "MBBS Doctor"
+    },
+    "requiredSkills": [
+      "Diagnostics",
+      "Anatomy",
+      "Medical Ethics",
+      "Resilience"
+    ],
+    "roadmap": [
+      "Clear NEET-UG national entrance exam with top percentile",
+      "Enroll and complete 4.5 years MBBS college curriculum",
+      "Complete 1 year compulsory rotatory residential internship",
+      "Register as medical practitioner under State Medical Council"
+    ],
+    "resources": [
+      "NMC Academic Curriculum booklets",
+      "Marrow clinical preparation portals"
+    ],
+    "salary": "₹6,0,000 - ₹18,0,000 per annum",
+    "futureScope": "High public impact, perpetual demand across medical infrastructures.",
+    "topRecruiters": [
+      "Apollo Hospitals",
+      "Fortis",
+      "AIIMS",
+      "Govt Hospitals"
+    ],
+    "certifications": [
+      "NMC Doctor Registration",
+      "Basic Life Support (BLS)"
+    ],
+    "icon": "bi-heart-pulse-fill",
+    "color": "danger",
+    "matchingInterests": {
+      "Research": 4,
+      "Govt": 2
+    },
+    "matchingStrengths": {
+      "Attention": 5,
+      "Problem Solving": 4
+    }
+  },
+  {
+    "id": "bds",
+    "name": "BDS",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate BiPC",
+    "recommendedEducation": "Bachelor of Dental Surgery",
+    "bridgePath": {
+      "currentEducation": "Intermediate (BiPC)",
+      "recommendedDegree": "BDS Dentistry Degree",
+      "requiredSkills": "Dental Anatomy & Restorative Care",
+      "projects": "Lab procedures & dental scaling",
+      "internship": "1 Year Dental Clinical Internship",
+      "careerGoal": "Dentist"
+    },
+    "requiredSkills": [
+      "Manual Precision",
+      "Oral Surgery",
+      "Dentalrestorations",
+      "Patient Care"
+    ],
+    "roadmap": [
+      "Clear NEET-UG and qualify dental cutoff rank",
+      "Enroll in DCI-recognized BDS college (4 years)",
+      "Perform dental procedures on clinical models in dental labs",
+      "Complete 1 year rotatory clinical dental internship"
+    ],
+    "resources": [
+      "Wheeler's Dental Anatomy manual",
+      "DCI guidelines publications"
+    ],
+    "salary": "₹3,0,000 - ₹8,0,000 per annum",
+    "futureScope": "Growing demand in cosmetic dentistry and dental orthognathics.",
+    "topRecruiters": [
+      "Clove Dental",
+      "Private Dental clinics",
+      "Army Dental Corps"
+    ],
+    "certifications": [
+      "DCI dentist practice license"
+    ],
+    "icon": "bi-emoji-smile-fill",
+    "color": "info",
+    "matchingInterests": {
+      "Research": 3,
+      "Design": 2
+    },
+    "matchingStrengths": {
+      "Attention": 5,
+      "Creativity": 3
+    }
+  },
+  {
+    "id": "b-pharmacy",
+    "name": "B.Pharmacy",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate BiPC / MPC",
+    "recommendedEducation": "Bachelor of Pharmacy",
+    "bridgePath": {
+      "currentEducation": "Intermediate (BiPC / MPC)",
+      "recommendedDegree": "B.Pharmacy Degree",
+      "requiredSkills": "Pharmacology & Assay chemistry",
+      "projects": "Drug formulation analyses",
+      "internship": "Drug Manufacturing Apprenticeship",
+      "careerGoal": "Pharmacist"
+    },
+    "requiredSkills": [
+      "Pharmacology",
+      "Drug Formulation",
+      "Quality control",
+      "Assay chemistry"
+    ],
+    "roadmap": [
+      "Clear state-level pharmacy entrance exam",
+      "Enroll and complete 4 years B.Pharmacy PCI curriculum",
+      "Complete 150 hours training in drug manufacturing company",
+      "Register as state certified pharmacist"
+    ],
+    "resources": [
+      "PCI curriculum guidelines",
+      "Indian Pharmacopoeia (IP) books"
+    ],
+    "salary": "₹2,50,000 - ₹6,00,000 per annum",
+    "futureScope": "Steady roles in India's massive generic pharmaceutical export sector.",
+    "topRecruiters": [
+      "Sun Pharma",
+      "Cipla",
+      "Dr. Reddy's Labs",
+      "Biocon"
+    ],
+    "certifications": [
+      "State Pharmacy Council Registration"
+    ],
+    "icon": "bi-capsule",
+    "color": "success",
+    "matchingInterests": {
+      "Research": 4,
+      "Data": 2
+    },
+    "matchingStrengths": {
+      "Attention": 4,
+      "Problem Solving": 3
+    }
+  },
+  {
+    "id": "b-sc",
+    "name": "B.Sc",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate MPC",
+    "recommendedEducation": "B.Sc Honors (Physics/Chemistry/Math)",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Sc Physics/Math Degree",
+      "requiredSkills": "Mathematical Proofs & Data Viz",
+      "projects": "Academic Lab Projects",
+      "internship": "Scientific Laboratory Internship",
+      "careerGoal": "Research Scientist"
+    },
+    "requiredSkills": [
+      "Scientific Analysis",
+      "Advanced Math",
+      "Data Plotting",
+      "Academic Writing"
+    ],
+    "roadmap": [
+      "Secure admission in B.Sc Honors program",
+      "Complete semester exams and lab practicals",
+      "Undergo scientific summer internship training",
+      "Write IIT-JAM / CUET-PG exam to transition to post-graduation"
+    ],
+    "resources": [
+      "NPTEL physics & mathematics videos",
+      "SWAYAM portal science courseware"
+    ],
+    "salary": "₹2,50,000 - ₹6,00,000 per annum",
+    "futureScope": "Growing R&D focus in materials science, chemistry, and computational labs.",
+    "topRecruiters": [
+      "CSIR Labs",
+      "ISRO",
+      "DRDO",
+      "Educational boards"
+    ],
+    "certifications": [
+      "IIT-JAM scorecard",
+      "Lab safety credentials"
+    ],
+    "icon": "bi-journal-code",
+    "color": "success",
+    "matchingInterests": {
+      "Research": 5,
+      "Data": 3
+    },
+    "matchingStrengths": {
+      "Mathematics": 5,
+      "Attention": 4
+    }
+  },
+  {
+    "id": "b-tech",
+    "name": "B.Tech",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate MPC",
+    "recommendedEducation": "B.Tech (CS/ECE/Civil/Mech)",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Tech Engineering Degree",
+      "requiredSkills": "Engineering Core Concepts & Coding",
+      "projects": "Design semester major project model",
+      "internship": "Industrial / Tech Internship",
+      "careerGoal": "Graduate Engineer"
+    },
+    "requiredSkills": [
+      "Problem Solving",
+      "Engineering Math",
+      "Logic Reasoning",
+      "CAD drawing"
+    ],
+    "roadmap": [
+      "Qualify JEE Main/State EAMCET exams",
+      "Enroll in AICTE-approved B.Tech program",
+      "Complete laboratory exercises and core semester cases",
+      "Perform industrial summer internship training"
+    ],
+    "resources": [
+      "NPTEL engineering branch lectures",
+      "Khan Academy physics tutorials"
+    ],
+    "salary": "₹4,0,000 - ₹12,0,000 per annum",
+    "futureScope": "Gatekeeper degree to all tech sector roles and manufacturing industries.",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "L&T",
+      "Tata Motors"
+    ],
+    "certifications": [
+      "AWS Practitioner",
+      "AutoCAD certification",
+      "GATE scorecard"
+    ],
+    "icon": "bi-wrench-adjustable",
+    "color": "primary",
+    "matchingInterests": {
+      "Coding": 5,
+      "Cloud": 3
+    },
+    "matchingStrengths": {
+      "Problem Solving": 5,
+      "Mathematics": 4
+    }
+  },
+  {
+    "id": "bba",
+    "name": "BBA",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate MEC / CEC",
+    "recommendedEducation": "Bachelor of Business Administration",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MEC / CEC)",
+      "recommendedDegree": "BBA Management Degree",
+      "requiredSkills": "Marketing & Business Strategy",
+      "projects": "Business Proposal Pitch Deck",
+      "internship": "Corporate Sales Internship",
+      "careerGoal": "Business Executive"
+    },
+    "requiredSkills": [
+      "Marketing",
+      "Management Principles",
+      "Public Speaking",
+      "Finance budgeting"
+    ],
+    "roadmap": [
+      "Crack BBA entrance exam (IPMAT/NPAT/CUET)",
+      "Enroll and complete BBA course (3 years)",
+      "Perform marketing summer case study and corporate internship",
+      "Prepare for CAT / GMAT for PG management tracks"
+    ],
+    "resources": [
+      "HBR student reading cases",
+      "Google digital marketing fundamentals"
+    ],
+    "salary": "₹2,50,000 - ₹7,0,000 per annum",
+    "futureScope": "Stepping stone to consulting, general management, and corporate operations.",
+    "topRecruiters": [
+      "Deloitte",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Accenture"
+    ],
+    "certifications": [
+      "Google marketing credential",
+      "Microsoft Excel certification"
+    ],
+    "icon": "bi-briefcase-fill",
+    "color": "warning",
+    "matchingInterests": {
+      "Design": 3,
+      "Data": 2
+    },
+    "matchingStrengths": {
+      "Leadership": 5,
+      "Communication": 4
+    }
+  },
+  {
+    "id": "bca",
+    "name": "BCA",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate (Any stream with Math)",
+    "recommendedEducation": "Bachelor of Computer Applications",
+    "bridgePath": {
+      "currentEducation": "Intermediate (Any stream)",
+      "recommendedDegree": "BCA IT Degree",
+      "requiredSkills": "Software Coding & Databases",
+      "projects": "Student Database management application",
+      "internship": "IT Support Apprenticeship",
+      "careerGoal": "Junior Developer"
+    },
+    "requiredSkills": [
+      "Coding",
+      "Database Basics",
+      "Web design",
+      "System Networking"
+    ],
+    "roadmap": [
+      "Enroll in BCA program in university",
+      "Learn programming languages (C/Java/Python)",
+      "Create database project using SQL schema files",
+      "Perform IT support training internship"
+    ],
+    "resources": [
+      "W3Schools code database",
+      "freeCodeCamp frontend playlists"
+    ],
+    "salary": "₹3,00,000 - ₹7,50,000 per annum",
+    "futureScope": "Excellent pathway to technical analyst, web development, and MCA studies.",
+    "topRecruiters": [
+      "Wipro",
+      "TCS",
+      "Cognizant",
+      "Infosys"
+    ],
+    "certifications": [
+      "Responsive Web Design (freeCodeCamp)"
+    ],
+    "icon": "bi-pc-display-horizontal",
+    "color": "primary",
+    "matchingInterests": {
+      "Coding": 5,
+      "Cloud": 2
+    },
+    "matchingStrengths": {
+      "Problem Solving": 4,
+      "Attention": 3
+    }
+  },
+  {
+    "id": "ca-foundation",
+    "name": "CA Foundation",
+    "category": "Intermediate",
+    "currentEducation": "Intermediate MEC / CEC",
+    "recommendedEducation": "CA Foundation (ICAI)",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MEC / CEC)",
+      "recommendedDegree": "CA Qualification Course",
+      "requiredSkills": "Financial audit & Corporate Law",
+      "projects": "Ledger ledger audits assistant",
+      "internship": "CA Articleship Training",
+      "careerGoal": "Chartered Accountant"
+    },
+    "requiredSkills": [
+      "Accounting",
+      "Taxation compliance",
+      "Corporate Law",
+      "Financial auditing"
+    ],
+    "roadmap": [
+      "Register for CA Foundation after 12th MEC/CEC",
+      "Study 4 months and clear CA Foundation exams",
+      "Enroll in CA Intermediate courses",
+      "Complete Group 1 & 2 Intermediate and start CA articleship"
+    ],
+    "resources": [
+      "ICAI Board of Studies training modules",
+      "CA coaching portals (Unacademy, ICAI webinars)"
+    ],
+    "salary": "₹8,0,000 - ₹22,00,000 per annum",
+    "futureScope": "Supreme authority in auditing and corporate tax consultation.",
+    "topRecruiters": [
+      "PwC",
+      "KPMG",
+      "EY",
+      "Deloitte",
+      "Reliance"
+    ],
+    "certifications": [
+      "ACA ICAI Membership"
+    ],
+    "icon": "bi-calculator-fill",
+    "color": "danger",
+    "matchingInterests": {
+      "Data": 4,
+      "Research": 3
+    },
+    "matchingStrengths": {
+      "Mathematics": 5,
+      "Attention": 5
+    }
+  },
+  {
+    "id": "upsc",
+    "name": "UPSC",
+    "category": "Government",
+    "currentEducation": "Degree",
+    "recommendedEducation": "Civil Services Exam Preparation",
+    "bridgePath": {
+      "currentEducation": "Degree / Graduation",
+      "recommendedDegree": "UPSC CSE Preparation",
+      "requiredSkills": "Constitution & General Studies",
+      "projects": "Answer Writing Series evaluations",
+      "internship": "LBSNAA Training Officer",
+      "careerGoal": "IAS Officer"
+    },
+    "requiredSkills": [
+      "Indian Administration",
+      "General Studies",
+      "Analytical Writing",
+      "Decision Making"
+    ],
+    "roadmap": [
+      "Read NCERT textbooks (6-12th) and daily national newspapers",
+      "Prepare extensively for optional subject syllabus and GS Mains answer writing",
+      "Pass UPSC CSE Prelims, Mains, and the personal interview rounds",
+      "Secure central merit allocation rank and report to LBSNAA academy"
+    ],
+    "resources": [
+      "Press Information Bureau updates",
+      "Standard NCERT textbooks"
+    ],
+    "salary": "₹6,73,000 - ₹30,0,000 per annum",
+    "futureScope": "Elite policymaking power and top rank job security in public sector administration.",
+    "topRecruiters": [
+      "Government of India",
+      "State Administrations"
+    ],
+    "certifications": [
+      "UPSC CSE final merit rank letter"
+    ],
+    "icon": "bi-bank-fill",
+    "color": "danger",
+    "matchingInterests": {
+      "Govt": 5,
+      "Research": 3
+    },
+    "matchingStrengths": {
+      "Leadership": 5,
+      "Problem Solving": 4,
+      "Communication": 4
+    }
+  },
+  {
+    "id": "ssc",
+    "name": "SSC",
+    "category": "Government",
+    "currentEducation": "Degree",
+    "recommendedEducation": "SSC CGL Exam Preparation",
+    "bridgePath": {
+      "currentEducation": "Degree / Graduation",
+      "recommendedDegree": "SSC CGL Preparation",
+      "requiredSkills": "Quantitative Aptitude & GK",
+      "projects": "Timed mock exam tests practice",
+      "internship": "Government Department Training",
+      "careerGoal": "Income Tax Inspector"
+    },
+    "requiredSkills": [
+      "Arithmetic math",
+      "General Knowledge",
+      "Reasoning",
+      "English Comprehension"
+    ],
+    "roadmap": [
+      "Identify target SSC CGL job profiles and syllabus parameters",
+      "Master quantitative shortcuts, reasoning puzzles, and English grammar",
+      "Solve regular full-length mock test series under timed environments",
+      "Clear CGL Tier 1 & Tier 2 examinations and skill checks"
+    ],
+    "resources": [
+      "Lucent's General Knowledge publications",
+      "Online SSC Mock Test portals"
+    ],
+    "salary": "₹3,50,000 - ₹12,0,000 per annum",
+    "futureScope": "Highly stable, clear promotions, and fixed working hour layouts in ministries.",
+    "topRecruiters": [
+      "Central Excise",
+      "Income Tax Department",
+      "Customs",
+      "Ministries of India"
+    ],
+    "certifications": [
+      "SSC selection scorecard"
+    ],
+    "icon": "bi-card-text",
+    "color": "warning",
+    "matchingInterests": {
+      "Govt": 5,
+      "Data": 2
+    },
+    "matchingStrengths": {
+      "Attention": 4,
+      "Mathematics": 4
+    }
+  },
+  {
+    "id": "banking",
+    "name": "Banking",
+    "category": "Government",
+    "currentEducation": "Degree",
+    "recommendedEducation": "Bank PO / IBPS Exam Prep",
+    "bridgePath": {
+      "currentEducation": "Degree / Graduation",
+      "recommendedDegree": "Bank PO Exam Preparation",
+      "requiredSkills": "Numerical Ability & English logic",
+      "projects": "Solve IBPS timed mock questions",
+      "internship": "Bank Branch Probationary Officer",
+      "careerGoal": "Bank Manager"
+    },
+    "requiredSkills": [
+      "Quantitative Math",
+      "Banking Awareness",
+      "English grammar",
+      "Customer Relations"
+    ],
+    "roadmap": [
+      "Secure graduation in any discipline",
+      "Apply and prepare for IBPS PO, SBI PO, or RBI Assistant exams",
+      "Master quantitative aptitude and banking awareness syllabus",
+      "Clear Prelims, Mains, and the bank interview round"
+    ],
+    "resources": [
+      "Banking awareness study guides",
+      "Online bank test banks"
+    ],
+    "salary": "₹4,50,000 - ₹9,50,000 per annum",
+    "futureScope": "Secure financial service routes with concessions and housing benefits.",
+    "topRecruiters": [
+      "State Bank of India",
+      "Bank of Baroda",
+      "Punjab National Bank"
+    ],
+    "certifications": [
+      "IBPS PO qualifying rank card"
+    ],
+    "icon": "bi-bank2",
+    "color": "primary",
+    "matchingInterests": {
+      "Govt": 5,
+      "Data": 3
+    },
+    "matchingStrengths": {
+      "Mathematics": 4,
+      "Communication": 4
+    }
+  },
+  {
+    "id": "railways",
+    "name": "Railways",
+    "category": "Government",
+    "currentEducation": "Degree / Diploma",
+    "recommendedEducation": "RRB Exam Preparation",
+    "bridgePath": {
+      "currentEducation": "Degree / Diploma / ITI",
+      "recommendedDegree": "RRB Exam Preparation",
+      "requiredSkills": "Technical Trade & Aptitude",
+      "projects": "Practice RRB syllabus tests",
+      "internship": "Railway Apprentice Placement",
+      "careerGoal": "Junior Engineer / Station Master"
+    },
+    "requiredSkills": [
+      "Technical Knowledge",
+      "Arithmetic math",
+      "General Awareness",
+      "Logical Reasoning"
+    ],
+    "roadmap": [
+      "Identify RRB NTPC or RRB JE target exam cutoffs",
+      "Study railway general knowledge, technical trade theories, and math",
+      "Crack RRB computer-based written examinations (CBT 1 & 2)",
+      "Clear document check and medical test stages"
+    ],
+    "resources": [
+      "RRB NTPC syllabus booklets",
+      "Railway static GK mock tests"
+    ],
+    "salary": "₹3,00,000 - ₹8,50,000 per annum",
+    "futureScope": "Highly secure lifetime jobs with travel concessions and railway residential quarters.",
+    "topRecruiters": [
+      "Indian Railways",
+      "RRB boards"
+    ],
+    "certifications": [
+      "RRB selection letter"
+    ],
+    "icon": "bi-train-lightrail-front-fill",
+    "color": "info",
+    "matchingInterests": {
+      "Govt": 5,
+      "Cloud": 1
+    },
+    "matchingStrengths": {
+      "Attention": 4,
+      "Problem Solving": 3
+    }
+  },
+  {
+    "id": "nda",
+    "name": "NDA",
+    "category": "Government",
+    "currentEducation": "Intermediate MPC",
+    "recommendedEducation": "NDA UPSC Cadet Training",
+    "bridgePath": {
+      "currentEducation": "Intermediate (MPC)",
+      "recommendedDegree": "B.Sc/B.Tech from NDA Pune",
+      "requiredSkills": "OLQ & Physical Stamina",
+      "projects": "Leadership training",
+      "internship": "IMA Military Boot Camp",
+      "careerGoal": "Commissioned Officer"
+    },
+    "requiredSkills": [
+      "Physical Agility",
+      "Officer Like Qualities",
+      "Strategic math",
+      "Military Leadership"
+    ],
+    "roadmap": [
+      "Apply and clear UPSC NDA written math and general ability exams",
+      "Pass 5-day SSB interview and medical test stages",
+      "Complete 3-year joint cadet training in NDA Pune",
+      "Complete 1-year academy training (IMA/INA/AFA) before commissioning"
+    ],
+    "resources": [
+      "UPSC NDA previous year papers",
+      "SSB Interview preparation tutorials"
+    ],
+    "salary": "₹6,73,000 - ₹15,0,000 per annum",
+    "futureScope": "Lifetime prestige serving in national security armed forces.",
+    "topRecruiters": [
+      "Indian Army",
+      "Indian Navy",
+      "Indian Air Force"
+    ],
+    "certifications": [
+      "NDA Graduation certificate",
+      "IMA commissioning letter"
+    ],
+    "icon": "bi-shield-shaded",
+    "color": "danger",
+    "matchingInterests": {
+      "Govt": 5,
+      "Research": 1
+    },
+    "matchingStrengths": {
+      "Leadership": 5,
+      "Attention": 4,
+      "Communication": 4
+    }
+  }
+]
